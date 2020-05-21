@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="32cc1e44-cebb-42f2-a0ea-b8a4963d264c" name="Default Changelist" comment="" />
+    <list default="true" id="32cc1e44-cebb-42f2-a0ea-b8a4963d264c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/templates/movies/movie_detail.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/django_movie.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/django_movie.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_movie/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/django_movie/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/movies/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/movies/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/movies/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/movies/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/movies/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/movies/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/movies/movies.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/movies/movies.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,19 +60,25 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/bekzhan0117.github.io" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="InvalidFacetManager">
+    <ignored-facets>
+      <facet id="django_movie/invalid/Django" />
+    </ignored-facets>
   </component>
   <component name="ProjectId" id="1XtGmof2ImrYs0v62zekrJu1vlw" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -112,6 +129,10 @@
       <workItem from="1582955596322" duration="853000" />
       <workItem from="1585048383140" duration="926000" />
       <workItem from="1585542608831" duration="725000" />
+      <workItem from="1589892041796" duration="99000" />
+      <workItem from="1589903534146" duration="598000" />
+      <workItem from="1589907422417" duration="639000" />
+      <workItem from="1589915335364" duration="933000" />
     </task>
     <servers />
   </component>
@@ -119,10 +140,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="275" y="22" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581859097143">
+    <state x="95" y="37" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589958833637">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="22" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1581859097143" />
+    <state x="95" y="37" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1589958833637" />
     <state width="254" height="195" key="DatabaseViewActions_Filter" timestamp="1581859031864">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -131,10 +152,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="196" height="457" key="HiddenNamespacesPopup/0.0.1366.728@0.0.1366.728" timestamp="1581859127004" />
-    <state x="378" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1585542611925">
+    <state x="378" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1589915337527">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="378" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1585542611925" />
+    <state x="378" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1589915337527" />
     <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1585542948932">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
